@@ -1,0 +1,37 @@
+# MANIFEST-INDEX
+items: [ tools/open-cmsis-pack/ctools-0.10.1.json ]
+indexes:
+  IdentityKey/info.id:
+    keys:
+      tools/open-cmsis-pack/ctools: [ 0 ]
+    words:
+      cmsis: [ 0 ]
+      cmsis-pack: [ 0 ]
+      cmsis-pack/ctools: [ 0 ]
+      ctools: [ 0 ]
+      open: [ 0 ]
+      open-cmsis: [ 0 ]
+      open-cmsis-pack: [ 0 ]
+      open-cmsis-pack/ctools: [ 0 ]
+      pack: [ 0 ]
+      pack/ctools: [ 0 ]
+      tools: [ 0 ]
+      tools/open: [ 0 ]
+      tools/open-cmsis: [ 0 ]
+      tools/open-cmsis-pack: [ 0 ]
+      tools/open-cmsis-pack/ctools: [ 0 ]
+  SemverKey/info.version:
+    keys:
+      0.10.1: [ 0 ]
+  StringKey/info.summary:
+    keys:
+      Open-CMSIS-Pack cli tools: [ 0 ]
+    words:
+      CMSIS: [ 0 ]
+      CMSIS-Pack: [ 0 ]
+      Open: [ 0 ]
+      Open-CMSIS: [ 0 ]
+      Open-CMSIS-Pack: [ 0 ]
+      Pack: [ 0 ]
+      cli: [ 0 ]
+      tools: [ 0 ]
