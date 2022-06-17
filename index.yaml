@@ -1,37 +1,41 @@
 # MANIFEST-INDEX
-items: [ tools/open-cmsis-pack/ctools-0.10.1.json ]
+items:
+  [
+    tools/open-cmsis-pack/ctools-0.10.1.json,    tools/open-cmsis-pack/ctools-0.10.2.json
+  ]
 indexes:
   IdentityKey/info.id:
     keys:
-      tools/open-cmsis-pack/ctools: [ 0 ]
+      tools/open-cmsis-pack/ctools: [ 0, 1 ]
     words:
-      cmsis: [ 0 ]
-      cmsis-pack: [ 0 ]
-      cmsis-pack/ctools: [ 0 ]
-      ctools: [ 0 ]
-      open: [ 0 ]
-      open-cmsis: [ 0 ]
-      open-cmsis-pack: [ 0 ]
-      open-cmsis-pack/ctools: [ 0 ]
-      pack: [ 0 ]
-      pack/ctools: [ 0 ]
-      tools: [ 0 ]
-      tools/open: [ 0 ]
-      tools/open-cmsis: [ 0 ]
-      tools/open-cmsis-pack: [ 0 ]
-      tools/open-cmsis-pack/ctools: [ 0 ]
+      cmsis: [ 0, 1 ]
+      cmsis-pack: [ 0, 1 ]
+      cmsis-pack/ctools: [ 0, 1 ]
+      ctools: [ 0, 1 ]
+      open: [ 0, 1 ]
+      open-cmsis: [ 0, 1 ]
+      open-cmsis-pack: [ 0, 1 ]
+      open-cmsis-pack/ctools: [ 0, 1 ]
+      pack: [ 0, 1 ]
+      pack/ctools: [ 0, 1 ]
+      tools: [ 0, 1 ]
+      tools/open: [ 0, 1 ]
+      tools/open-cmsis: [ 0, 1 ]
+      tools/open-cmsis-pack: [ 0, 1 ]
+      tools/open-cmsis-pack/ctools: [ 0, 1 ]
   SemverKey/info.version:
     keys:
       0.10.1: [ 0 ]
+      0.10.2: [ 1 ]
   StringKey/info.summary:
     keys:
-      Open-CMSIS-Pack cli tools: [ 0 ]
+      Open-CMSIS-Pack cli tools: [ 0, 1 ]
     words:
-      CMSIS: [ 0 ]
-      CMSIS-Pack: [ 0 ]
-      Open: [ 0 ]
-      Open-CMSIS: [ 0 ]
-      Open-CMSIS-Pack: [ 0 ]
-      Pack: [ 0 ]
-      cli: [ 0 ]
-      tools: [ 0 ]
+      CMSIS: [ 0, 1 ]
+      CMSIS-Pack: [ 0, 1 ]
+      Open: [ 0, 1 ]
+      Open-CMSIS: [ 0, 1 ]
+      Open-CMSIS-Pack: [ 0, 1 ]
+      Pack: [ 0, 1 ]
+      cli: [ 0, 1 ]
+      tools: [ 0, 1 ]
