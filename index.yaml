@@ -1,7 +1,8 @@
 # MANIFEST-INDEX
 items:
   [
-    tools/open-cmsis-pack/ctools-0.10.1.json,    tools/open-cmsis-pack/ctools-0.10.2.json
+    tools/open-cmsis-pack/ctools-0.10.1.json,    tools/open-cmsis-pack/ctools-0.10.2.json,
+    tools/open-cmsis-pack/ctools-v1.2.3.json
   ]
 indexes:
   IdentityKey/info.id:
