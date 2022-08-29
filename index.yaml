@@ -5,7 +5,8 @@ items:
     tools/open-cmsis-pack/ctools-v1.2.3.json,
     tools/open-cmsis-pack/ctools-v2.5.8.json,
     tools/open-cmsis-pack/ctools-v2.5.1.json,
-    tools/open-cmsis-pack/ctools-v2.5.2.json
+    tools/open-cmsis-pack/ctools-v2.5.2.json,
+    tools/open-cmsis-pack/ctools-v2.5.3.json
   ]
 indexes:
   IdentityKey/info.id:
